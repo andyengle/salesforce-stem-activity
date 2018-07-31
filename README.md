@@ -1,7 +1,7 @@
 Salesforce STEM Activity
 ------
 
-This project will be used for getting started with the Salesforce STEM Activity for October 25.
+This project will be used for getting started with the Salesforce STEM Activity for (insert today's date here).
 
 What is it?  It's a starter project for a React component that will be used for updating a sign.  Sounds awesome, right?  It is!
 
