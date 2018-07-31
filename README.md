@@ -6,6 +6,12 @@ This project will be used for getting started with the Salesforce STEM Activity 
 What is it?  It's a starter project for a React component that will be used for updating a sign.  Sounds awesome, right?  It is!
 
 
+
+### First, install all the usual stuff:
+```
+npm install
+```
+
 ### To run this project:
 ```
 npm start
